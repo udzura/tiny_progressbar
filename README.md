@@ -2,6 +2,9 @@
 
 TODO: Write a gem description
 
+* [![Build Status](https://travis-ci.org/udzura/tiny_progressbar.png)](https://travis-ci.org/udzura/tiny_progressbar)
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
