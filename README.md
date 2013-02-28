@@ -3,6 +3,8 @@
 TODO: Write a gem description
 
 * [![Build Status](https://travis-ci.org/udzura/tiny_progressbar.png)](https://travis-ci.org/udzura/tiny_progressbar)
+* [![Dependency Status](https://gemnasium.com/udzura/tiny_progressbar.png)](https://gemnasium.com/udzura/tiny_progressbar)
+* [![Code Climate](https://codeclimate.com/github/udzura/tiny_progressbar.png)](https://codeclimate.com/github/udzura/tiny_progressbar)
 
 
 ## Installation
