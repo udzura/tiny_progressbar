@@ -1,6 +1,6 @@
 # TinyProgressbar
 
-TODO: Write a gem description
+Small gem sample for gihyo
 
 * [![Build Status](https://travis-ci.org/udzura/tiny_progressbar.png)](https://travis-ci.org/udzura/tiny_progressbar)
 * [![Dependency Status](https://gemnasium.com/udzura/tiny_progressbar.png)](https://gemnasium.com/udzura/tiny_progressbar)
